@@ -2,8 +2,8 @@
 
 **Proyecto:** Giveth – Plataforma de donaciones comunitarias Web3  
 **Versión:** 1.0  
-**Fecha:** [dd/mm/aaaa]  
-**Responsable de Calidad:** [Nombre del ingeniero / equipo]  
+
+ El presente documento esta el plan de calidad de GIVETH plataforma que permite a usuarios realizar donaciones o financiamientos...
 
 ## 1. Introducción
 Giveth es una plataforma que permite a usuarios donar y financiar proyectos comunitarios de manera transparente y segura usando blockchain. Este plan asegura que la plataforma funcione correctamente, que los fondos lleguen a los destinatarios sin errores, y que los contratos inteligentes sean confiables y seguros.
