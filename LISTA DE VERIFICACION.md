@@ -62,9 +62,13 @@ Se asegura que el proyecto esté alineado con las buenas prácticas y los objeti
 | E-4.4 | Objetivos del Proyecto               | ¿Se refleja la contribución de Giveth a la transparencia y a la inclusión financiera?         | [ ] Pendiente |
 ---
 ## Proceso de Verificación:
+Se aprueba la auditoria al cumplirse lo siguiente:
 
-Completar todos los puntos de la lista.
+- Completar todos los puntos de la lista.
 
-Validación final por un revisor externo.
+- Validación final por un revisor externo.
 
-Auditoría marcada como Aprobada antes del despliegue en mainnet.
+- Se confirma que el proyecto cumple con las métricas de seguridad, funcionalidad y documentación.
+
+- Se autoriza el despliegue en mainnet.
+
