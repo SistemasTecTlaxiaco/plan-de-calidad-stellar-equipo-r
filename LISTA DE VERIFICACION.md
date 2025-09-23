@@ -60,3 +60,11 @@ Se asegura que el proyecto esté alineado con las buenas prácticas y los objeti
 | E-4.2 | Política de Privacidad               | ¿Se han redactado términos de servicio y política de privacidad para manejo de datos?         | [ ] Pendiente |
 | E-4.3 | Canales de Comunicación              | ¿La documentación incluye los canales de soporte (Discord, Telegram, GitHub)?                 | [ ] Pendiente |
 | E-4.4 | Objetivos del Proyecto               | ¿Se refleja la contribución de Giveth a la transparencia y a la inclusión financiera?         | [ ] Pendiente |
+---
+## Proceso de Verificación:
+
+Completar todos los puntos de la lista.
+
+Validación final por un revisor externo.
+
+Auditoría marcada como Aprobada antes del despliegue en mainnet.
