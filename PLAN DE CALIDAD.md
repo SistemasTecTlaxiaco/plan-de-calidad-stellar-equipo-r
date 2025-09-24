@@ -3,10 +3,11 @@
 **Proyecto:** Giveth – Plataforma de donaciones comunitarias Web3  
 **Versión:** 1.0  
 Integrantes del equipo:
-Maviel Martinez Cholula 
-Ricardo Martinez Santos
-Karen Garcia Garcia 
-Fecha: 23/09/2025
+- Maviel Martinez Cholula 
+- Ricardo Martinez Santos
+- Karen Garcia Garcia 
+- Fecha: 23/09/2025
+---
  El presente documento esta el plan de calidad de GIVETH plataforma que permite a usuarios realizar donaciones o financiamientos...
 
 ## 1. Introducción
