@@ -2,7 +2,12 @@
 
 **Proyecto:** Giveth – Plataforma de donaciones comunitarias Web3  
 **Versión:** 1.0  
-
+Integrantes del equipo:
+- Maviel Martinez Cholula 
+- Ricardo Martinez Santos
+- Karen Garcia Garcia 
+- Fecha: 23/09/2025
+---
 ## 1. Introducción
 El presente informe describe el Plan de Aseguramiento de la Calidad de Software (SQA) del proyecto Giveth, una plataforma que facilita a los usuarios realizar donaciones y financiar proyectos comunitarios utilizando tecnología blockchain.  
 El plan tiene como objetivo garantizar la seguridad, transparencia y confiabilidad en las transacciones, asegurando que los fondos lleguen íntegramente a sus destinatarios y que los smart contracts que los gestionan estén libres de vulnerabilidades críticas. Además, se busca proporcionar una experiencia de usuario intuitiva, accesible y eficiente en diferentes navegadores y dispositivos.
